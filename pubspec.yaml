@@ -8,8 +8,10 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
+  drag_and_drop_lists: ^0.3.3
   flutter:
     sdk: flutter
+  syncfusion_flutter_datepicker: ^20.4.52
   todo_record:
     path: ../todo_record
 
