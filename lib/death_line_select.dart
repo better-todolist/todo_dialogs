@@ -39,7 +39,7 @@ class DeathLineEditPageState extends State<DeathLineEditPage> {
   ///     - 精确到天 -> date picker 使用 month view
   ///     - 精确到周 -> date picker 使用 month view, 需要对其到小于选择值的周一，更新后需要表示在日期选择上
   ///     - 精确到月 -> date picker 使用 year view
-  ///     - 精确到年 -> date picker 使用 decede view
+  ///     - 精确到年 -> date picker 使用 decade view
   ///
   /// 5. 其他关于 date Picker配置
   ///   - navigationDirection ： 滚动方向
